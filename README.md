@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=150&section=header&text=Emanoel%20Costa&fontSize=90&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=150&section=header&text=Emanoel%20Costa&fontSize=50&fontColor=ffffff)
 <!--
 **Cyber-ViPs/Cyber-ViPs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
