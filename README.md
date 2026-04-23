@@ -1,4 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=708090&height=300&section=header&text=Emanoel%20Costa&fontSize=90&fontColor=ffffff)
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=130&section=header&text=Emanoel%20Costa&fontSize=50&fontColor=ffffff)
 ## Hi there 👋
 <!--
