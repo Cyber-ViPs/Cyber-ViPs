@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=130&section=header&text=Mr%20Costa&fontSize=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=130&section=header&text=Mr.%20Costa&fontSize=50&fontColor=ffffff)
 
 # Hi, I'm Manoel Costa 
 
