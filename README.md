@@ -66,11 +66,29 @@ PDF generation, GUI development and IoT (Arduino).
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyber-ViPs&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-ViPs&layout=compact&theme=github_dark&hide_border=true)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cyber-ViPs&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-ViPs&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Cyber-ViPs&theme=github-dark&hide_border=true"/>
+
+</p>
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyber-ViPs&theme=github-dark"/>
 
 ---
 
