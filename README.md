@@ -1,5 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=130&section=header&text=Mr.%20Costa&fontSize=50&fontColor=ffffff)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoel-c-86242a195/?skipRedirect=true)
 # Hi, I'm Manoel Costa 
 
 ### Software Engineer | Backend Developer | Python | Node.js | Docker | Linux
@@ -107,8 +107,6 @@ PDF generation, GUI development and IoT (Arduino).
 
 
 ## 🌎 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoel-c-86242a195/?skipRedirect=true)
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL)
 
