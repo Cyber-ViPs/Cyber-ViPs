@@ -70,17 +70,28 @@ PDF generation, GUI development and IoT (Arduino).
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cyber-ViPs&show_icons=true&theme=github_dark&hide_border=true"/>
+  <!-- Contador de Visitas -->
+  <img src="https://komarev.com/ghpvc/?username=Cyber-ViPs&color=7928CA&label=VISITAS+AO+PERFIL&style=for-the-badge" alt="Contador de Visitas" />
 </p>
+
+<p align="center">
+  <!-- Estatísticas Gerais (Servidor Alternativo) -->
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Cyber-ViPs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  
+  <!-- Linguagens Mais Usadas (Servidor Alternativo) -->
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Cyber-ViPs&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" />
+</p>
+
 ---
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Cyber-ViPs&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p> 
+  <!-- Badges de Conquistas do GitHub (Estável via shields.io) -->
+  <img src="https://img.shields.io/badge/GitHub-Star_Gazer-yellow?style=for-the-badge&logo=github" alt="Star Gazer" />
+  <img src="https://img.shields.io/badge/GitHub-Pull_Shark-blue?style=for-the-badge&logo=github" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/GitHub-Quick_Draw-orange?style=for-the-badge&logo=github" alt="Quick Draw" />
+</p>
 ---
 
 ## 🔥 Contribution Streak
