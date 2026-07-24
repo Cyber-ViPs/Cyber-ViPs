@@ -74,11 +74,6 @@ PDF generation, GUI development and IoT (Arduino).
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <!-- Contador de Visitas -->
-  <img src="https://komarev.com/ghpvc/?username=Cyber-ViPs&color=7928CA&label=VISITAS+AO+PERFIL&style=for-the-badge" alt="Contador de Visitas" />
-</p>
-
-<p align="center">
   <!-- Estatísticas Gerais (Servidor Alternativo) -->
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Cyber-ViPs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   
