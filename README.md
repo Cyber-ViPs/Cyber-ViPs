@@ -10,6 +10,10 @@ software architecture, DevOps, Linux and Artificial Intelligence.
 I enjoy building real-world applications from architecture to deployment,
 creating scalable REST APIs, automation tools and containerized environments.
 > "I believe every project should start with a reproducible environment."
+>
+> I don't just build software. I enjoy understanding how systems work.
+>
+> Freedom through reproducibility.
 
 Most of my projects begin with Docker before I even write the first line of application code.
 
@@ -82,7 +86,6 @@ PDF generation, GUI development and IoT (Arduino).
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Cyber-ViPs&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" />
 </p>
 
----
 
 ## 🏆 GitHub Achievements
 
@@ -92,7 +95,7 @@ PDF generation, GUI development and IoT (Arduino).
   <img src="https://img.shields.io/badge/GitHub-Pull_Shark-blue?style=for-the-badge&logo=github" alt="Pull Shark" />
   <img src="https://img.shields.io/badge/GitHub-Quick_Draw-orange?style=for-the-badge&logo=github" alt="Quick Draw" />
 </p>
----
+
 
 ## 🔥 Contribution Streak
 
@@ -101,13 +104,12 @@ PDF generation, GUI development and IoT (Arduino).
 <img src="https://streak-stats.demolab.com?user=Cyber-ViPs&theme=github-dark&hide_border=true"/>
 
 </p>
----
+
 
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyber-ViPs&theme=github-dark"/>
 
----
 
 ## 🌎 Connect with me
 
